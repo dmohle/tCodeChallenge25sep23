@@ -1,6 +1,9 @@
 # tCodeChallenge25sep23
 tCodeChallenge25sep23: Create a linked list of animal names. Use Discord and help your classmates!
 
+Posted: Sept 25, 2023
+by: dH
+
 
 Linked List of Species Names - C++ Code Challenge
 Introduction
